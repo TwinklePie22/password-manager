@@ -1,0 +1,81 @@
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T22:43:23.511Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T22:43:25.129Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T22:43:25.344Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T22:43:25.543Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T22:43:25.728Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T22:43:25.920Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T22:43:26.117Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T23:00:46.631Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T23:00:47.843Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T23:00:48.121Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T23:00:48.329Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T23:00:48.508Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T23:00:48.689Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T23:00:48.867Z"}
+{"level":"error","message":"Registration error: email is not defined","service":"password-manager","timestamp":"2024-09-04T23:00:58.952Z"}
+{"level":"info","message":"Attempting to register user: sahilbhasin._, 1nt21is136.sahil@nmit.ac.in","service":"password-manager","timestamp":"2024-09-04T23:24:08.253Z"}
+{"level":"warn","message":"Registration attempt with existing email: 1nt21is136.sahil@nmit.ac.in","service":"password-manager","timestamp":"2024-09-04T23:24:08.257Z"}
+{"level":"info","message":"Attempting to register user: sahilbhasin._, 1nt21is136.sahil@nmit.ac.in","service":"password-manager","timestamp":"2024-09-04T23:24:15.300Z"}
+{"level":"warn","message":"Registration attempt with existing email: 1nt21is136.sahil@nmit.ac.in","service":"password-manager","timestamp":"2024-09-04T23:24:15.303Z"}
+{"level":"info","message":"Attempting to register user: sahilbhasin._, soniabhasin102@gmail.com","service":"password-manager","timestamp":"2024-09-04T23:25:02.517Z"}
+{"level":"info","message":"New user registered successfully: sahilbhasin._","service":"password-manager","timestamp":"2024-09-04T23:25:02.599Z"}
+{"level":"info","message":"Attempting to register user: sahilbhasin._, sbhasin1122@gmail.com","service":"password-manager","timestamp":"2024-09-04T23:59:06.934Z"}
+{"level":"warn","message":"Registration attempt with existing username: sahilbhasin._","service":"password-manager","timestamp":"2024-09-04T23:59:06.938Z"}
+{"level":"info","message":"Attempting to register user: sahilbhasin._, sbhasin1122@gmail.com","service":"password-manager","timestamp":"2024-09-04T23:59:08.294Z"}
+{"level":"warn","message":"Registration attempt with existing username: sahilbhasin._","service":"password-manager","timestamp":"2024-09-04T23:59:08.298Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 3","service":"password-manager","timestamp":"2024-09-04T23:59:54.866Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 3","service":"password-manager","timestamp":"2024-09-04T23:59:54.875Z"}
+{"level":"info","message":"Profile updated successfully for user ID: 3","service":"password-manager","timestamp":"2024-09-04T23:59:57.227Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 3","service":"password-manager","timestamp":"2024-09-04T23:59:57.243Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 3","service":"password-manager","timestamp":"2024-09-05T00:00:21.105Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 3","service":"password-manager","timestamp":"2024-09-05T00:00:21.115Z"}
+{"level":"info","message":"Attempting to register user: sahilbhasin231@gmail.com, sbhasin1122@gmail.com","service":"password-manager","timestamp":"2024-09-05T00:12:09.642Z"}
+{"level":"warn","message":"Registration attempt with existing username: sahilbhasin231@gmail.com","service":"password-manager","timestamp":"2024-09-05T00:12:09.647Z"}
+{"level":"info","message":"Attempting to register user: randi, sbhasin1122@gmail.com","service":"password-manager","timestamp":"2024-09-05T00:12:20.157Z"}
+{"level":"info","message":"New user registered successfully: randi","service":"password-manager","timestamp":"2024-09-05T00:12:20.254Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 4","service":"password-manager","timestamp":"2024-09-05T00:12:34.951Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 4","service":"password-manager","timestamp":"2024-09-05T00:12:34.963Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 4","service":"password-manager","timestamp":"2024-09-05T00:12:37.265Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 4","service":"password-manager","timestamp":"2024-09-05T00:12:37.277Z"}
+{"level":"info","message":"Profile updated successfully for user ID: 4","service":"password-manager","timestamp":"2024-09-05T00:12:42.243Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 4","service":"password-manager","timestamp":"2024-09-05T00:12:42.258Z"}
+{"level":"info","message":"Profile updated successfully for user ID: 4","service":"password-manager","timestamp":"2024-09-05T00:16:08.589Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 4","service":"password-manager","timestamp":"2024-09-05T00:16:08.617Z"}
+{"level":"info","message":"Attempting to register user: sahilbhasin._, sbhasin1122@gmail.com","service":"password-manager","timestamp":"2024-09-06T21:00:53.617Z"}
+{"level":"info","message":"New user registered successfully: sahilbhasin._","service":"password-manager","timestamp":"2024-09-06T21:00:53.798Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:01:28.147Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:01:28.172Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:01:45.111Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:01:45.121Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:01:46.501Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:01:46.507Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:02:38.753Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:02:38.764Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:02:43.157Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:02:43.168Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:13:35.373Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:13:35.381Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:18:23.493Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:18:23.501Z"}
+{"level":"info","message":"Profile updated successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:18:25.210Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:18:25.222Z"}
+{"level":"info","message":"Profile updated successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:18:30.518Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:18:30.532Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:47:05.275Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T21:47:05.291Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T22:39:31.392Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T22:39:31.413Z"}
+{"level":"info","message":"Profile updated successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T22:39:33.002Z"}
+{"level":"info","message":"Profile fetched successfully for user ID: 5","service":"password-manager","timestamp":"2024-09-06T22:39:33.017Z"}
+{"level":"info","message":"Attempting to register user: TwinklePie, soniabhasin102@gmail.com","service":"password-manager","timestamp":"2024-09-07T00:11:30.216Z"}
+{"level":"info","message":"New user registered successfully: TwinklePie","service":"password-manager","timestamp":"2024-09-07T00:11:30.308Z"}
+{"level":"info","message":"Attempting to register user: sahilbhasin._, sbhasin1122@gmail.com","service":"password-manager","timestamp":"2024-09-07T00:31:15.314Z"}
+{"level":"info","message":"New user registered successfully: sahilbhasin._","service":"password-manager","timestamp":"2024-09-07T00:31:15.399Z"}
+{"level":"info","message":"Attempting to register user: TwinklePie, soniabhasin102@gmail.com","service":"password-manager","timestamp":"2024-09-18T16:59:48.707Z"}
+{"level":"info","message":"New user registered successfully: TwinklePie","service":"password-manager","timestamp":"2024-09-18T16:59:48.923Z"}
+{"level":"info","message":"Attempting to register user: wwdwswd, soniabhasin102@gmail.com","service":"password-manager","timestamp":"2025-09-12T16:28:51.517Z"}
+{"level":"warn","message":"Registration attempt with existing email: soniabhasin102@gmail.com","service":"password-manager","timestamp":"2025-09-12T16:28:51.524Z"}
+{"level":"info","message":"Attempting to register user: wwdwswd, ssssbhasin12@gmail.com","service":"password-manager","timestamp":"2025-09-12T16:28:57.517Z"}
+{"level":"info","message":"New user registered successfully: wwdwswd","service":"password-manager","timestamp":"2025-09-12T16:28:57.652Z"}
+{"level":"info","message":"Attempting to register user: wemjwjehw, ashsjail@gmail.com","service":"password-manager","timestamp":"2025-09-12T18:59:37.404Z"}
+{"level":"info","message":"New user registered successfully: wemjwjehw","service":"password-manager","timestamp":"2025-09-12T18:59:37.511Z"}
